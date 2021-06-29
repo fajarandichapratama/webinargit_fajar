@@ -20,6 +20,7 @@ public class WebinarGit_Fajar {
         System.out.println("kali ini kita akan membahas mengenai Adobe Lightroom");
         System.out.println("disini terdapat banyak sekali proses editing foto");
         System.out.println("disini terdapat banyak sekali presets");
+        System.out.println("kita dapat melakukan pengeditan untuk color grading disini");
     }
     
 }
