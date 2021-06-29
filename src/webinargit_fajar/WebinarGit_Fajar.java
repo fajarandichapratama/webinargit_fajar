@@ -18,6 +18,7 @@ public class WebinarGit_Fajar {
         // TODO code application logic here
         System.out.println("Halo guys! Fajar disini");
         System.out.println("kali ini kita akan membahas mengenai Adobe Lightroom");
+        System.out.println("disini terdapat banyak sekali presets");
     }
     
 }
